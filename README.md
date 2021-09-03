@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Simran Kaur Walia (Sim-run Kowr W-ah-lia)
+- 👋 Hi, I’m Simran Kaur Walia 
+-            (Sim-run Kowr W-ah-lia)
 -
 
 <!---
